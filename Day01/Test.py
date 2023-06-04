@@ -12,7 +12,7 @@ print(dollar)
 # 함수 특징은 ~~~ () 형태이다
 # print() print 함수
 # ex) print(입력값), abc(입력값), hungry(입력값)
-# 결과값은 있을 수도 없을 수도 있다.
+# 입력값이 있을 수도 없을 수도 있고, 결과값은 있을 수도 없을 수도 있다.
 
 # 어르신 문법
 print("hello world" + dollar)
@@ -22,3 +22,11 @@ print(f"hellow world {dollar}")
 
 movie = "겨울왕국"
 print(f"김승욱 기자 = 한국과 미국은 '{movie}'우리 군이 서해에서 북한 우주발사체를 인양한 뒤 이를 공동조사하기로 했다")
+
+print(hellow world)
+print("hellow wolrd")
+# 차이: " - "= 변수로 보겠다는 것
+hellow = '안녕'
+world = '세상'
+print(hello + world)
+print("hello world" + dollar)
